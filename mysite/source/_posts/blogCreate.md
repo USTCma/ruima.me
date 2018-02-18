@@ -3,7 +3,7 @@ title: 使用Jekyll搭建独立博客
 date: 2016-01-08 23:54:23
 tags: [代码,博客,Jekyll]
 categories: '代码'
-description: Jekyll，将纯文本转化为静态网站和博客的工具
+description: 
 photos:
 ---
 近来，想记录一下自己成长，不论是最新的技术学习还是做产品的体会总结，亦或是其他方面的感悟心得。就像刚进腾讯时，导师给我建议那样：沉淀并分享。

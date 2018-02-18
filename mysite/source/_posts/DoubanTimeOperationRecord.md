@@ -4,10 +4,8 @@ date: 2017-03-06 16:54:23
 tags: [总结,冷启动,产品思考,经验总结]
 categories: '总结'
 description: 近期，豆瓣首个内容付费产品——豆瓣时间上线。豆瓣时间以高品质的音频内容为主，主打文学版块，目标用户定位应该是有付费意愿的文艺装逼青年。本文主要记录观察到该产品在冷启动阶段的实施步骤。
-photos: 
+photos: http://oqsovnm36.bkt.clouddn.com/douban_header.png
 ---
-![豆瓣时间](http://oqsovnm36.bkt.clouddn.com/douban_header.png)
-
 ## 3月6日
 
 * 建立【豆瓣时间】话题

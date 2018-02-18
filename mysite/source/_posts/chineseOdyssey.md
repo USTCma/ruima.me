@@ -4,7 +4,7 @@ date: 2016-06-08 16:20:00
 tags: [电影]
 categories: '电影'
 description: “你看那个人，好奇怪哟，象一条狗！”总有一天，我们也会走在路上，象一条狗。
-photos:
+photos: http://oqsovnm36.bkt.clouddn.com/Odyssey.jpg
 ---
 端午节，在家又刷了一遍大话西游，每次重看，总感觉会理解更深一些。也许不至于笑着笑着就哭了，但在笑过之后，终归会心情沉重。有时候，看电影和听歌，其实都是看自己、听自己。
 
@@ -20,6 +20,4 @@ photos:
 
 不多说，听歌。
 
-<div style="text-align: center;">
-<embed src="http://static.video.qq.com/TPout.swf?vid=k0199hnmf8m&auto=0" allowFullScreen="true" quality="high" width="640" height="480" align="middle" allowScriptAccess="always" type="application/x-shockwave-flash">
-</div>
+<iframe height=auto width=auto src='http://player.youku.com/embed/XMzM1Nzc4MTkxMg==' frameborder=0 'allowfullscreen'></iframe>

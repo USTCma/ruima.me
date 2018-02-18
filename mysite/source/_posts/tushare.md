@@ -3,7 +3,7 @@ title: Python股票接口
 date: 2016-07-23 23:21:00
 tags: [代码,接口,数据集]
 categories: '代码'
-description: tushare用法总结
+description: 
 ---
 今天推荐一个python的股票接口[tushare](http://tushare.waditu.com/)，当然，不仅仅只包含股票，你也可以用tushare来获取期权和电影信息。后续我打算用Django和tushare做点意思的东西。
 

@@ -3,7 +3,7 @@ title: VPS上的l2tp和pptp搭建
 date: 2016-10-20 01:18:00
 tags: [代码,VPS,l2tp,pptp]
 categories: '代码'
-description: 针对Debain搭建VPN步骤总结。
+description: 
 ---
 最近买了[BuyVM](https://buyvm.net/)的VPS，因为情有独钟，所以装载的依然是Debain7。兴冲冲地在网上立马搜索“Debian搭建VPN”，得到PPTP的搭建步骤，总结如下.
 

@@ -3,7 +3,7 @@ title: Better than free-(K.K)
 date: 2016-04-18 18:18:23
 tags: [文摘,K.K,产品]
 categories: '文摘'
-description: Our wealth sits upon a very large device that copies promiscuously and constantly.
+description: 
 photos:
 ---
 This super-distribution system has become the foundation of our economy and wealth. The instant reduplication of data,ideas, and media underpins all the major economic sectors in our economy,particularly those involved with exports — that is, those industries where the US has a competitive advantage. Our wealth sits upon a very large device that copies promiscuously and constantly.

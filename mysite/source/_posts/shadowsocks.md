@@ -3,7 +3,7 @@ title: 使用Shadowsocks连接VPN
 date: 2016-11-03 21:45:00
 tags: [代码,VPN,Shadowsocks]
 categories: '代码'
-description: Shadowsocks搭建步骤总结。
+description: 
 photos:
 ---
 前些天，折腾了如何使用PPTP和L2TP连接VPS：[传送门地址]({{"VPS/" | prepend: site.baseurl }})，但由于连接稳定等问题，被安利了Shadowsocks，今天再记录一下如何使用Shadowsocks连接VPS。

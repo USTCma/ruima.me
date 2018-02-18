@@ -3,11 +3,9 @@ title: 我的百年阿里
 date: 2017-09-02 20:54:23
 tags: [总结,阿里巴巴,思考,培训]
 categories: '总结'
-photos: 
+photos: http://oqsovnm36.bkt.clouddn.com/bailiali.jpg
 description: 百年阿里，简称“百阿”，是阿里巴巴新员工入职试用期内必须参加的一场为期10天的新人培训。很多人在这里成为了一生的朋友，同时，也经历了一场深刻的和阿里巴巴、和自己的对话。
 ---
-![毕业合照](http://oqsovnm36.bkt.clouddn.com/bailiali.jpg)
-
 如果对阿里巴巴有一些了解，那么对于“百阿”一定不会陌生。这场被外界称之为洗脑的培训，在我经历之后，有了一些不一样的认识和感悟。
 
 # 素拓&定向

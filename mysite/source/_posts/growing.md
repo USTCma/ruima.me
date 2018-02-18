@@ -3,11 +3,9 @@ title: 离职小记
 date: 2017-07-01 14:54:23
 tags: 总结
 categories: '总结'
-photos: 
+photos: http://oqsovnm36.bkt.clouddn.com/leaved.JPG
 description: 我留下了628个需求，5个半新产品，15个版本PRD，带走了成长和回忆。
 ---
-![曾经的颜值天团](http://oqsovnm36.bkt.clouddn.com/leaved.JPG)
-
 2016年06月19日，我离职了，颇多感慨。是时候该静下心来，对这份工作做一次总结盘点。
 
 ## 工作总结
