@@ -20,7 +20,6 @@ photos:
 那么，产品运营又该怎样去思考呢？
 
 总结冷启动课程内容，脑图如下：
-
 ![冷启动课程总结](http://oqsovnm36.bkt.clouddn.com/cold-boot.PNG)
 
 从运营的思维方式来说，和产品是一致的。

@@ -5,7 +5,7 @@
 # Site
 title: 细节 · 匠心
 subtitle: 小马的独立博客
-description: 马睿的个人小站，记录关于产品、技术以及个人的思想点滴
+description: 记录关于产品、技术以及个人的思想点滴
 author: Rui Ma
 author_CN: 小马
 language: zh-CN
@@ -13,7 +13,7 @@ timezone: Asia/Shanghai
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://ruima.me/
+url: http://marui.me/
 root: /
 permalink: :title/
 permalink_defaults:
@@ -118,11 +118,14 @@ douban:
   user: 68436147
   book:
     title: '我的书单'
-    quote: 
+    quote: 记录我看过的书单。
   movie:
     title: '我的片单'
-    quote: 
-  timeout: 10000
+    quote: 记录我看过的电影和剧集。
+  #game:
+    #title: 'This is my game title'
+    #quote: 'This is my game quote'
+  timeout: 3000
 
 kramed:
   gfm: true

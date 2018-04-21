@@ -6,7 +6,6 @@ categories: '总结'
 description: 本文简单记录所收集的自媒体平台的分析（排名不分先后）。关于如何注册这些平台，请点击平台名称，即可进入相应的注册页面，请大家准备好身份证，开启我们的自媒体之旅。
 ---
 ## [微信公众平台](https://mp.weixin.qq.com/)
-
 ![微信公众平台](http://oqsovnm36.bkt.clouddn.com/weixin.jpg)
 
 **Slogan ：**
@@ -24,7 +23,6 @@ description: 本文简单记录所收集的自媒体平台的分析（排名不�
 - 关注操作导致不公开，不公开导致不能像微博一样做大范围传播，不能形成围观、评论等。
 
 ## [网易云阅读](http://open.yuedu.163.com/)　
-
 ![网易](http://oqsovnm36.bkt.clouddn.com/netease.jpg)
 
 **Slogan ：**
