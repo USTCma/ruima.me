@@ -115,7 +115,7 @@ lazyload:
   enable: true
 
 douban:
-  user: 68436147
+  user: i_marui
   book:
     title: '我的书单'
     quote: 记录我看过的书单。
