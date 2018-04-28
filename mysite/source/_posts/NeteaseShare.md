@@ -15,7 +15,7 @@ photos:
 ![网易产品经理成长记](http://oqsovnm36.bkt.clouddn.com/PMgrowing.png)
 
 ## 跨境电商入门浅谈
-![跨境电商入门浅谈](http://oqsovnm36.bkt.clouddn.com/跨境电商入门.png)
+![跨境电商入门浅谈](http://oqsovnm36.bkt.clouddn.com/%E8%B7%A8%E5%A2%83%E7%94%B5%E5%95%86%E5%85%A5%E9%97%A8.png)
 
 ## 产品经理最容易走入的几个误区
 

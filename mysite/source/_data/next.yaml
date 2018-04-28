@@ -525,8 +525,8 @@ gitment:
   language: # Force language, or auto switch by theme
   github_user: ustcma # MUST HAVE, Your Github ID
   github_repo: ustcma.github.io # MUST HAVE, The repo you use to store Gitment comments
-  client_id: c1fe481abf2adf4cffbe # MUST HAVE, Github client id for the Gitment
-  client_secret: f3cb4aadea6927192afc4918acabf9c5e17d8d54 # EITHER this or proxy_gateway, Github access secret token for the Gitment
+  client_id: e81cdbb747603163de6c # MUST HAVE, Github client id for the Gitment
+  client_secret: bb35577c610927b5c53e2ca0da39f650075cdbf5 # EITHER this or proxy_gateway, Github access secret token for the Gitment
   proxy_gateway: # Address of api proxy, See: https://github.com/aimingoo/intersect
   redirect_protocol: # Protocol of redirect_uri with force_redirect_protocol when mint enabled
 
