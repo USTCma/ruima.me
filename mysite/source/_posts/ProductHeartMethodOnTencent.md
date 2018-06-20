@@ -6,7 +6,7 @@ categories: '总结'
 photos: http://3gimg.qq.com/daxue_qq_com/image/201710/1508921803828.jpg
 description: 19年产品经验，16个月精心打磨，9位顶级产品专家研讨提炼，凝聚腾讯产品经验的8集8分钟产品课——用户、定位、需求、时机、匠心、危机、合作、商业，还原产品背后的故事，分享给你腾讯产品的心法。
 ---
-周末看了《腾讯8分钟产品课》，废话不多说，干货总结如下。
+最近看了《腾讯8分钟产品课》，废话不多说，干货总结如下。
 <hr>
 
 ## 用户
@@ -33,4 +33,8 @@ description: 19年产品经验，16个月精心打磨，9位顶级产品专家�
 ![危机](http://oqsovnm36.bkt.clouddn.com/%E5%8D%B1%E6%9C%BA.png)
 [点击观看](http://daxue.qq.com/content/content/id/4003)
 
-未完待续，期待产品心法的第7、8集。
+## 合作
+![合作](http://oqsovnm36.bkt.clouddn.com/%E5%90%88%E4%BD%9C.png)
+[点击观看](http://daxue.qq.com/content/content/id/4058)
+
+未完待续，期待产品心法的第8集。
