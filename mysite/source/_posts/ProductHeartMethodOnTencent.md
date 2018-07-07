@@ -39,4 +39,8 @@ description: 19年产品经验，16个月精心打磨，9位顶级产品专家�
 
 ## 商业化
 ![商业化](http://oqsovnm36.bkt.clouddn.com/%E5%95%86%E4%B8%9A%E5%8C%96.png)
+<<<<<<< HEAD
 [点击观看](http://daxue.qq.com/content/content/id/4104)
+=======
+[点击观看](http://daxue.qq.com/content/content/id/4104)
+>>>>>>> dc363f25471a2c29815551fab10bb22c383b8e75
