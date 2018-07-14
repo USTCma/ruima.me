@@ -392,7 +392,7 @@ font:
   # Global font settings used for all elements in <body>.
   global:
     external: true
-    family: -apple-system-font,"Helvetica Neue","PingFang SC","Hiragino Sans GB","Microsoft YaHei",sans-serif;
+    family: Helvetica Neue,PingFang SC,Hiragino Sans GB,Microsoft YaHei,sans-serif,-apple-system-font;
     size:
 
   # Font settings for Headlines (H1, H2, H3, H4, H5, H6).
@@ -461,12 +461,12 @@ math:
 
 # Han Support
 # Dependencies: https://github.com/theme-next/theme-next-han
-han: true
+han: false
 
 # Pangu Support
 # Dependencies: https://github.com/theme-next/theme-next-pangu
 # For more information: https://github.com/vinta/pangu.js
-pangu: true
+pangu: false
 
 # Swiftype Search API Key
 #swiftype_key:
@@ -721,7 +721,7 @@ local_search:
 # Bookmark Support
 # Dependencies: https://github.com/theme-next/theme-next-bookmark
 bookmark:
-  enable: true
+  enable: false
   # if auto
   #   - save the reading position when closing the page
   #   - or clicking the bookmark-icon
@@ -811,7 +811,7 @@ lazyload: false
 
 # Progress bar in the top during page loading.
 # Dependencies: https://github.com/theme-next/theme-next-pace
-pace: true
+pace: false
 # Themes list:
 #pace-theme-big-counter
 #pace-theme-bounce
@@ -828,7 +828,7 @@ pace: true
 #pace-theme-minimal
 # For example
 # pace_theme: pace-theme-center-simple
-pace_theme: pace-theme-bounce
+#pace_theme: pace-theme-center-simple
 
 # Canvas-nest
 # Dependencies: https://github.com/theme-next/theme-next-canvas-nest

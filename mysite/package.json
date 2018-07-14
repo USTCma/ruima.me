@@ -43,6 +43,6 @@
     "hexo-wordcount": "^3.0.2",
     "jshint": "^2.9.5",
     "minimatch": "^3.0.4",
-    "npm": "^6.1.0"
+    "npm": "^6.2.0"
   }
 }
